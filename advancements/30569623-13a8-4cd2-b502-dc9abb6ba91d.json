@@ -353,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2021-10-02 01:53:36 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2021-09-24 23:22:29 +0900"
@@ -641,6 +647,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2021-10-02 01:53:36 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2021-09-24 22:47:51 +0900"
@@ -834,6 +846,7 @@
       "minecraft:ghast": "2021-09-27 01:11:35 +0900",
       "minecraft:hoglin": "2021-09-27 01:23:19 +0900",
       "minecraft:magma_cube": "2021-09-27 01:51:11 +0900",
+      "minecraft:spider": "2021-10-02 02:00:04 +0900",
       "minecraft:creeper": "2021-09-25 01:14:48 +0900",
       "minecraft:zombified_piglin": "2021-09-27 01:11:56 +0900",
       "minecraft:wither_skeleton": "2021-09-27 01:45:39 +0900",
@@ -866,6 +879,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2021-09-25 00:38:35 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2021-10-02 01:23:04 +0900"
     },
     "done": true
   },
@@ -1277,6 +1296,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2021-10-02 01:23:04 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-09-24 22:43:36 +0900"
@@ -1445,9 +1470,14 @@
       "minecraft:mountains": "2021-09-24 23:12:45 +0900",
       "minecraft:desert_hills": "2021-09-24 22:46:36 +0900",
       "minecraft:desert": "2021-09-24 22:48:34 +0900",
+      "minecraft:birch_forest": "2021-10-02 01:43:35 +0900",
       "minecraft:savanna_plateau": "2021-09-30 01:51:13 +0900",
       "minecraft:beach": "2021-09-30 01:56:38 +0900",
+      "minecraft:dark_forest": "2021-10-02 01:41:53 +0900",
       "minecraft:river": "2021-09-24 22:40:05 +0900",
+      "minecraft:birch_forest_hills": "2021-10-02 01:43:40 +0900",
+      "minecraft:wooded_hills": "2021-10-02 01:42:21 +0900",
+      "minecraft:swamp": "2021-10-02 01:45:17 +0900",
       "minecraft:savanna": "2021-09-24 22:40:52 +0900",
       "minecraft:plains": "2021-09-24 22:39:47 +0900"
     },
@@ -1504,6 +1534,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2021-09-24 22:45:49 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2021-10-02 02:00:07 +0900"
     },
     "done": true
   },
@@ -1600,6 +1636,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2021-09-27 02:02:48 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2021-10-02 01:53:36 +0900"
     },
     "done": true
   },

@@ -1631,6 +1631,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2021-10-09 15:04:07 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2021-09-19 22:16:44 +0900"
@@ -1646,6 +1652,12 @@
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2021-09-19 21:18:00 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2021-10-09 15:04:01 +0900"
     },
     "done": true
   },
@@ -1927,6 +1939,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2021-10-09 15:14:33 +0900",
       "minecraft:cow": "2021-09-20 16:25:03 +0900"
     },
     "done": false
@@ -2882,6 +2895,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-09-20 16:28:45 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2021-10-09 15:04:01 +0900"
     },
     "done": true
   },

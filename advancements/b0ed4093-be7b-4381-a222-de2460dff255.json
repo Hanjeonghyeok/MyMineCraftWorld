@@ -323,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2021-10-10 18:57:52 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2021-09-22 20:26:46 +0900"
@@ -1013,6 +1019,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2021-10-10 18:57:52 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2021-09-19 21:20:03 +0900"
@@ -1055,6 +1067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2021-10-10 19:13:56 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2021-09-19 21:15:31 +0900"
@@ -1070,6 +1088,12 @@
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2021-09-27 02:03:08 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2021-10-10 18:57:52 +0900"
     },
     "done": true
   },
@@ -1847,6 +1871,7 @@
       "salmon": "2021-09-19 21:21:40 +0900",
       "melon_slice": "2021-09-21 13:48:46 +0900",
       "golden_carrot": "2021-10-10 15:19:36 +0900",
+      "cooked_chicken": "2021-10-10 18:59:24 +0900",
       "carrot": "2021-10-10 14:24:43 +0900"
     },
     "done": false

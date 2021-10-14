@@ -329,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2021-10-15 00:22:13 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2021-09-27 02:02:48 +0900"
@@ -367,7 +373,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2021-09-24 23:19:29 +0900"
+      "cooked_beef": "2021-09-24 23:19:29 +0900",
+      "golden_carrot": "2021-10-15 00:23:27 +0900"
     },
     "done": false
   },

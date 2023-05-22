@@ -3414,5 +3414,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2023-05-22 21:16:31 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2023-05-22 21:02:31 +0900"
+    },
+    "done": true
+  },
   "DataVersion": 3337
 }
